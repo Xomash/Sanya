@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ababahalamaha
 Sanya plohish.
+=======
+sasai
+>>>>>>> origin1/master
